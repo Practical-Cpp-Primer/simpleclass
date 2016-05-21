@@ -5,7 +5,7 @@
 
 # Simple Class Demo
 
-SimpleClass is a short program deoming how a basic class works in C++. 
+SimpleClass is a short program demoing how a basic class works in C++. 
 
 All .cpp files are in the src/ folder, and all .h files are in the include/ folder.
 
